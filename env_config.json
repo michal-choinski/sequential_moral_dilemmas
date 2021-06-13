@@ -1,0 +1,19 @@
+{
+  "grayscale": false,
+  "n_apples": 30,
+  "variable_spawning_rate": true,
+  "n_apple_frames": 5,
+  "apple_discount": 0.1,
+  "n_tagged_frames": 5,
+  "n_agents": 2,
+  "n_episode_steps": 1000,
+  "reward_step_min": 0.0,
+  "reward_step_max": 1.0,
+  "reward_gathered_apple": 1,
+  "reward_aid_ethical": 1,
+  "reward_aid_unethical": -0.2,
+  "reward_contribution": 0.2,
+  "reward_starving": -1,
+  "reward_fire_beam": 0,
+  "beam_hits_to_remove": 1
+}
